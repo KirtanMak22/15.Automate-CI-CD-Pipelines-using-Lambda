@@ -2,7 +2,7 @@
 
 ~ Purpose: Trigger deployments automatically using Lambda
 
-~ AWS Services
+~ AWS Services:
 
           Lambda
           CodePipeline
